@@ -1,0 +1,8 @@
+# Claude Code memory (personal)
+.claude/
+
+# macOS
+.DS_Store
+
+# Personal/sensitive docs
+lịch nghỉ tết.docx
